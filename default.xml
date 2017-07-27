@@ -1,15 +1,15 @@
 <manifest>
     <remote name="github" fetch=".."/>
-    <default remote="github" revision="refs/heads/development" sync-j="4"/>
+    <default remote="github" revision="refs/heads/development" sync-j="0"/>
     <project name="meerkat_frontend" path="meerkat_frontend"/>
     <project name="meerkat_api" path="meerkat_api"/>
     <project name="meerkat_abacus" path="meerkat_abacus"/>
     <project name="meerkat_hermes" path="meerkat_hermes"/>
     <project name="meerkat_auth" path="meerkat_auth"/>
     <project name="meerkat_analysis" path="meerkat_analysis"/>
-    <project name="meerkat_docs" path="meerkat_docs"/>
+    <project name="meerkat_docs" revision="refs/heads/master" path="meerkat_docs"/>
     <project name="meerkat_libs" path="meerkat_libs"/>
-    <project name="meerkat_logging" path="meerkat_logging"/>
+    <project name="meerkat_logging" revision="refs/heads/master" path="meerkat_logging" />
     <project name="meerkat_jordan" path="meerkat_jordan"/>
     <project name="meerkat_mad" path="meerkat_mad"/>
     <project name="meerkat_somalia" path="meerkat_somalia"/>
