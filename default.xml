@@ -1,6 +1,6 @@
 <manifest>
     <remote name="github" fetch=".."/>
-    <default remote="github" revision="refs/heads/development" sync-j="0"/>
+    <default remote="github" revision="refs/heads/development" sync-j="1"/>
     <project name="meerkat_frontend" path="meerkat_frontend"/>
     <project name="meerkat_api" path="meerkat_api"/>
     <project name="meerkat_abacus" path="meerkat_abacus"/>
