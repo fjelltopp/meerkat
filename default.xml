@@ -15,4 +15,5 @@
     <project name="meerkat_somalia" path="meerkat_somalia"/>
     <project name="meerkat_dev" revision="refs/heads/master" path="meerkat_dev"/>
     <project name="meerkat_infrastructure" revision="refs/heads/master" path="meerkat_infrastructure"/>
+    <project name="meerkat_mob" path="meerkat_mob"/>
 </manifest>
