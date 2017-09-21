@@ -12,4 +12,5 @@
     <project name="meerkat_logging" revision="master" path="meerkat_logging" />
     <project name="meerkat_dev" revision="master" path="meerkat_dev"/>
     <project name="meerkat_mob" path="meerkat_mob"/>
+    <project name="meerkat_consul" path="meerkat_consul"/>
 </manifest>
