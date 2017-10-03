@@ -12,6 +12,7 @@
     <project name="meerkat_logging" revision="master" path="meerkat_logging" />
     <project name="meerkat_jordan" path="meerkat_jordan"/>
     <project name="meerkat_mad" path="meerkat_mad"/>
+    <project name="meerkat_rms" path="meerkat_rms"/>
     <project name="meerkat_somalia" path="meerkat_somalia"/>
     <project name="meerkat_dev" revision="master" path="meerkat_dev"/>
     <project name="meerkat_infrastructure" revision="master" path="meerkat_infrastructure"/>
