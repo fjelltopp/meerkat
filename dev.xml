@@ -18,4 +18,5 @@
     <project name="meerkat_infrastructure" revision="master" path="meerkat_infrastructure"/>
     <project name="meerkat_mob" path="meerkat_mob"/>
     <project name="meerkat_consul" path="meerkat_consul"/>
+    <project name="meerkat_runner" path="meerkat_runner"/>
 </manifest>
