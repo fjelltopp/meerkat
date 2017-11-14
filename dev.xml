@@ -14,6 +14,7 @@
     <project name="meerkat_mad" path="meerkat_mad"/>
     <project name="meerkat_rms" path="meerkat_rms"/>
     <project name="meerkat_somalia" path="meerkat_somalia"/>
+    <project name="meerkat_somaliland" path="meerkat_somaliland"/>
     <project name="meerkat_dev" revision="master" path="meerkat_dev"/>
     <project name="meerkat_infrastructure" revision="master" path="meerkat_infrastructure"/>
     <project name="meerkat_mob" path="meerkat_mob"/>
